@@ -1,2 +1,1 @@
-# datagatorcontest.github.io
-Website for UF's DataGator contest.
+#### This is the primary website for UF's DataGator contest.
