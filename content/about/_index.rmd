@@ -90,13 +90,13 @@ Please direct all questions regarding the MyDataStory competition to **mydatasto
 ### **Sponsors**
 We want to thank the following organizations for their support.
 
-![](../fig/ufii_logo.png)
+![](../img/ufii_logo.png)
 
 \newline
-![](../fig/ufdsi_logo.png)
+![](../img/ufdsi_logo.png)
 
 \newline
-![](../fig/libraries_logo.png)
+![](../img/libraries_logo.png)
 
 
 

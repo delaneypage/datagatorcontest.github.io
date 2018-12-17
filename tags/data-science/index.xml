@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data Science on Creative portfolio</title>
-    <link>https://datagatorcontest.github.io/tags/data-science/</link>
+    <link>/tags/data-science/</link>
     <description>Recent content in Data Science on Creative portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 17 Oct 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://datagatorcontest.github.io/tags/data-science/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/data-science/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About the Competition</title>
-      <link>https://datagatorcontest.github.io/about/</link>
+      <link>/about/</link>
       <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://datagatorcontest.github.io/about/</guid>
+      <guid>/about/</guid>
       <description>Welcome to the official 2018/2019 MyDataStory competition website! The myDataStory competition is a great way for undergraduates at the University of Florida to develop a data science portfolio that highlights their skills to potential employers. The competition also creates an informal learning opportunity, a fun way for you to hone your technical skills while mastering the fundamentals of data storytelling.
 We hope you’ll consider submitting your story. If you need inspiration, take a look at what others have done on our portfolio page.</description>
     </item>
