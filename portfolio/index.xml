@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolios on Creative portfolio</title>
+    <link>https://datagatorcontest.github.io/portfolio/</link>
+    <description>Recent content in Portfolios on Creative portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Nov 2016 18:25:22 +0530</lastBuildDate>
+    
+	<atom:link href="https://datagatorcontest.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Submission Example</title>
+      <link>https://datagatorcontest.github.io/portfolio/work1/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>https://datagatorcontest.github.io/portfolio/work1/</guid>
+      <description>My original goal was to predict the election outcomes, and after understanding the data and taking a couple of stabs at it, I am very happy with the results.</description>
+    </item>
+    
+  </channel>
+</rss>
