@@ -1,5 +1,5 @@
 baseurl = "https://datagatorcontest.github.io/"
-title = "Creative portfolio"
+title = "DataGator Contest"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
 canonifyurls = true
@@ -51,11 +51,11 @@ googleAnalytics = ""
   facebook      = "https://www.facebook.com/DataGator-Data-Science-Contest-213070146277799/?modal=admin_todo_tour"
   #googleplus    = "full profile url in googleplus"
   email         = "mydatastory@gmail.com"
-  twitter       = "full profile url in twitter"
+  #twitter       = "full profile url in twitter"
   #linkedin      = "full profile url in linkedin"
   #stackoverflow = "full profile url in stackoverflow"
   #instagram     = "full profile url in instagram"
-  github        = "full profile url in github"
+  #github        = "full profile url in github"
   #youtube       = "full profile url in youtube"
 
 
