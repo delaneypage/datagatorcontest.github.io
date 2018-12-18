@@ -11,7 +11,7 @@ tags:
 categories: R
 ---
 
-Welcome to the official 2018/2019 MyDataStory competition website!  The myDataStory competition is a great way for undergraduates at the University of Florida to develop a data science portfolio that highlights their skills to potential employers. The competition also creates an informal learning opportunity, a fun way for you to hone your technical skills while mastering the fundamentals of data storytelling.  
+Welcome to the official 2018/2019 DataGator competition website! The DataGator competition is a great way for undergraduates at the University of Florida to develop a data science portfolio that highlights their skills to potential employers. It is hosted by the data science education initiative, myDataStory. The competition also creates an informal learning opportunity, a fun way for you to hone your technical skills while mastering the fundamentals of data storytelling.  
 
 We hope you'll consider submitting *your* story.  If you need inspiration, take a look at what others have done on our [portfolio page](/portfolio).
 Here's some important information about the competition. 
@@ -29,7 +29,7 @@ Here's some important information about the competition.
   - [Sponsors](#sponsors)
 
 ### Eligibility
-Only registered UF undergraduates are eligible to participate.
+Only registered UF students are eligible to participate.
 
 ### Submission Instructions
 You will upload your submission as a link. This means that your project will have to have .html conversion capabilities and you will need to create a platform, either through GitHub or your own website, to publish your project. 
@@ -37,6 +37,8 @@ You will upload your submission as a link. This means that your project will hav
 #### Prepare
 
 Your submission must be through a clickable link on a browser interface. 
+
+Some examples of submission formats include github served pages (described below), personal links published on websites, [RPubs](http://rpubs.com/), personal website hosted pages, and anything with a direct link that is accessible from the internet. 
 
 You can export documents into .html format from Jupyter notebooks (.ipynb) or from RStudio as a RMarkdown (.Rmd).
 
@@ -74,7 +76,7 @@ Congratulations! You now have a working link to submit.
 
 #### Submit 
 
-Send your name, UFL email, phone number, major and year, and submission link to **mydatastory@gmail.com** with "Submission" in the subject line. 
+Send your name, UFL email, phone number, major and year, and submission link to **mydatastory@gmail.com** with "Submission" in the subject line. Optional, but recommended: a brief description of your project and a small image from your project to host on the website. All submissions will be placed in the [portfolio](/portfolio) page.  
 
 You may submit more than once up until the deadline, but we will only consider your latest submission. 
 
