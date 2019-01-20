@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resources on DataGator Contest</title>
+    <link>/resources/</link>
+    <description>Recent content in Resources on DataGator Contest</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/resources/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Resources</title>
+      <link>/resources/mydatastory-competition/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mydatastory-competition/</guid>
+      <description>The dataGator contest encourages students from all disciplines to participate. Under the mission of myDataStory, which strives to teach statistical literacy and data science technique, we want to make sure everyone can have a chance to share their discoveries regardless of technical background.
+To help with your projects, here are some useful resources to reference:
+The UF Data Science Institute holds weekly workshops open to all. On their GitHub page, they have all the scripts (with solutions) from their presentations:</description>
+    </item>
+    
+  </channel>
+</rss>

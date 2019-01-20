@@ -1,0 +1,45 @@
+---
+title: "Resources" 
+author: "Delaney Gomen & Dan Maxwell"
+date: "1/20/2019"
+description: The 2018/2019 MyDataStory Competition
+slug: mydatastory-competition
+tags:
+- competition
+- data science
+categories: R
+type: 'about'
+layout: 'list' 
+---
+
+The dataGator contest encourages students from all disciplines to participate. Under the mission of myDataStory, which strives to teach statistical literacy and data science technique, we want to make sure everyone can have a chance to share their discoveries regardless of technical background. 
+
+To help with your projects, here are some useful resources to reference: 
+
+The [UF Data Science Institute](http://www.dsiufl.org/) holds weekly workshops open to all. On their [GitHub page](https://github.com/dsiufl/), they have all the scripts (with solutions) from their presentations: 
+
+[Introductory Python Series](https://github.com/dsiufl/Python-Workshops) (no programming experience necessary) 
+
+* Hello world, [Python 0](https://github.com/dsiufl/Python-Workshops/tree/master/Python0)
+* More complex, [Python 1](https://github.com/dsiufl/Python-Workshops/tree/master/Python1)
+* Machine learning, [Python 2](https://github.com/dsiufl/Python-Workshops/tree/master/Python2)
+
+[Introductory R Series](https://github.com/dsiufl/R-Workshops) (no programming experience necessary)  
+
+* Basics, [R0](https://github.com/dsiufl/R-Workshops/blob/master/R0.Rmd)
+* Data wrangling, [R1](https://github.com/dsiufl/R-Workshops/blob/master/R1.Rmd)
+* Machine learning, [R2](https://github.com/dsiufl/R-Workshops/blob/master/R2.Rmd)
+
+[Data Visualization in Python](https://github.com/dsiufl/DataViz)
+
+Introductory Data Science Series (coming soon!)
+
+Introductory Tableau Series (coming soon!)
+
+Ani Adhikari and John DeNero of the University of California, Berkeley have created an introductory online textbook that can be found [here.](https://www.inferentialthinking.com/chapters/intro) The book is for the university's "Foundations of Data Science" course. The book teaches in Python. 
+
+To help with your final submission:
+
+* Here are [RMarkdown cheatsheats](https://rmarkdown.rstudio.com/lesson-15.html) if you decide to do your project in R. 
+* Similarly, here is [Jupyter Notebook Documentation](https://jupyter-notebook.readthedocs.io/en/stable/index.html) if you are doing your project in Python. 
+* Students get [free access](https://www.tableau.com/academic/students) to Tableau desktop. 

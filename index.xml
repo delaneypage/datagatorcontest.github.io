@@ -2,33 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DataGator Contest</title>
-    <link>https://datagatorcontest.github.io/</link>
+    <link>/</link>
     <description>Recent content on DataGator Contest</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 05 Nov 2016 18:25:22 +0530</lastBuildDate>
     
-	<atom:link href="https://datagatorcontest.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Submission Example</title>
-      <link>https://datagatorcontest.github.io/portfolio/work1/</link>
+      <link>/portfolio/work1/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
-      <guid>https://datagatorcontest.github.io/portfolio/work1/</guid>
+      <guid>/portfolio/work1/</guid>
       <description>My original goal was to predict the election outcomes, and after understanding the data and taking a couple of stabs at it, I am very happy with the results.</description>
     </item>
     
     <item>
       <title>Hello R Markdown</title>
-      <link>https://datagatorcontest.github.io/post/2015-07-23-r-rmarkdown/</link>
+      <link>/post/2015-07-23-r-rmarkdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>https://datagatorcontest.github.io/post/2015-07-23-r-rmarkdown/</guid>
+      <guid>/post/2015-07-23-r-rmarkdown/</guid>
       <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
 summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+    </item>
+    
+    <item>
+      <title>Resources</title>
+      <link>/resources/mydatastory-competition/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mydatastory-competition/</guid>
+      <description>The dataGator contest encourages students from all disciplines to participate. Under the mission of myDataStory, which strives to teach statistical literacy and data science technique, we want to make sure everyone can have a chance to share their discoveries regardless of technical background.
+To help with your projects, here are some useful resources to reference:
+The UF Data Science Institute holds weekly workshops open to all. On their GitHub page, they have all the scripts (with solutions) from their presentations:</description>
     </item>
     
   </channel>

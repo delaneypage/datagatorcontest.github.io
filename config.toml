@@ -46,6 +46,10 @@ googleAnalytics = ""
   [[params.navlinks]]
   name = "Contact"
   url = "contact/"
+  
+  [[params.navlinks]]
+  name = "Resources"
+  url = "resources/"
 
   [params.social]
   facebook      = "https://www.facebook.com/DataGator-Data-Science-Contest-213070146277799/?modal=admin_todo_tour"

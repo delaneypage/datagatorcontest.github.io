@@ -2,22 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Competition on DataGator Contest</title>
-    <link>https://datagatorcontest.github.io/tags/competition/</link>
+    <link>/tags/competition/</link>
     <description>Recent content in Competition on DataGator Contest</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 17 Oct 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://datagatorcontest.github.io/tags/competition/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/competition/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About the Competition</title>
-      <link>https://datagatorcontest.github.io/about/</link>
+      <link>/about/</link>
       <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://datagatorcontest.github.io/about/</guid>
+      <guid>/about/</guid>
       <description>Welcome to the official 2018/2019 DataGator competition website! The DataGator competition is a great way for undergraduates at the University of Florida to develop a data science portfolio that highlights their skills to potential employers. It is hosted by the data science education initiative, myDataStory. The competition also creates an informal learning opportunity, a fun way for you to hone your technical skills while mastering the fundamentals of data storytelling.</description>
+    </item>
+    
+    <item>
+      <title>Resources</title>
+      <link>/resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/</guid>
+      <description>The dataGator contest encourages students from all disciplines to participate. Under the mission of myDataStory, which strives to teach statistical literacy and data science technique, we want to make sure everyone can have a chance to share their discoveries regardless of technical background.
+To help with your projects, here are some useful resources to reference:
+The UF Data Science Institute holds weekly workshops open to all. On their GitHub page, they have all the scripts (with solutions) from their presentations:</description>
+    </item>
+    
+    <item>
+      <title>Resources</title>
+      <link>/resources/mydatastory-competition/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mydatastory-competition/</guid>
+      <description>The dataGator contest encourages students from all disciplines to participate. Under the mission of myDataStory, which strives to teach statistical literacy and data science technique, we want to make sure everyone can have a chance to share their discoveries regardless of technical background.
+To help with your projects, here are some useful resources to reference:
+The UF Data Science Institute holds weekly workshops open to all. On their GitHub page, they have all the scripts (with solutions) from their presentations:</description>
     </item>
     
   </channel>

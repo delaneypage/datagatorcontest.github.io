@@ -1,11 +1,3 @@
-.Rproj.user
-.Rhistory
 .RData
-.Ruserdata
-.gitignore
-.gitkeep
-/**/*.Rmd
-config.toml
-datagatorcontest.github.io.Rproj
-content/
-themes/
+.Rhistory
+.Rproj.user
