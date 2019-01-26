@@ -4,7 +4,7 @@ draft = false
 image = "img/portfolio/tylerexample.png"
 date = "2016-11-05T18:25:22+05:30"
 title = "Submission Example"
-weight = 0
+weight = 1
 link = "https://towardsdatascience.com/two-decades-of-uf-student-government-elections-using-machine-learning-for-deeper-insights-c137c0586466"
 +++
 

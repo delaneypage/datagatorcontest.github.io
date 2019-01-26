@@ -20,5 +20,23 @@
       <description>My original goal was to predict the election outcomes, and after understanding the data and taking a couple of stabs at it, I am very happy with the results.</description>
     </item>
     
+    <item>
+      <title>A ‘Spike’ of Inactive Voters in Georgia</title>
+      <link>/portfolio/wyrosdick-bradley/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>/portfolio/wyrosdick-bradley/</guid>
+      <description>Analyzing inactive and purged voters in the Georgia Voter File with R.</description>
+    </item>
+    
+    <item>
+      <title>Voter Registration Rates: Identifying Where People Are Not Registered and Why</title>
+      <link>/portfolio/morse-nathan/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>/portfolio/morse-nathan/</guid>
+      <description>Voter registration rates have yet to be studied closely, but this project reveals they are an untapped source of powerful information for campaigns and analysts. This project examines data from North Carolina’s voter files and Census Bureau population estimates to determine which types of areas tend to have lower rates of registered voters out of the total population. It includes statistical calculations, regression models, forecasting models, data visualizations, and analysis.</description>
+    </item>
+    
   </channel>
 </rss>
